@@ -7,6 +7,6 @@ while success:
     success,image = vidcap.read()
     resize = cv2.resize(image, (640, 480)) 
     cv2.imshow("Result", resize)    
-    if cv2.waitKey(10) == 27:                     
+    if cv2.waitKey(10) == 27:          # 'ESC' to quit program            
         break
     count += 1
