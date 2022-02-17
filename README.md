@@ -1,4 +1,9 @@
 # ECE-Project
 3ry Yr Project on Lane Detection
-Android Project
 
+Android Project
+app ->
+     ->src
+     ->main
+     ->cpp
+     ->cpp_code
