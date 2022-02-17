@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Lenovo/AndroidStudioProjects/MyApplicationpd/app/.externalNativeBuild/cmake/debug/x86",
+  "command": "C:\\Users\\Lenovo\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=C:/Users/Lenovo/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Lenovo/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcpp_code_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\cpp_code.dir\\cpp_code.cpp.o -c C:\\Users\\Lenovo\\AndroidStudioProjects\\MyApplicationpd\\app\\src\\main\\cpp\\cpp_code.cpp",
+  "file": "C:\\Users\\Lenovo\\AndroidStudioProjects\\MyApplicationpd\\app\\src\\main\\cpp\\cpp_code.cpp"
+}
+]

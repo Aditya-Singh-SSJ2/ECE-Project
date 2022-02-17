@@ -1,0 +1,3 @@
+C:/Users/Lenovo/AndroidStudioProjects/MyApplicationpd/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/cpp_code.dir
+C:/Users/Lenovo/AndroidStudioProjects/MyApplicationpd/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/AndroidStudioProjects/MyApplicationpd/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

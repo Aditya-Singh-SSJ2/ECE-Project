@@ -1,0 +1,41 @@
+{
+  "stringTable": {
+    "0": "C:/Users/Lenovo/AndroidStudioProjects/MyApplicationpd/app/.externalNativeBuild/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android16 --gcc-toolchain=C:/Users/Lenovo/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Lenovo/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dcpp_code_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\Lenovo\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Lenovo\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\Lenovo\\AndroidStudioProjects\\MyApplicationpd\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk\\.temp\\PackageOperation01\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"C:\\Users\\Lenovo\\AndroidStudioProjects\\MyApplicationpd\\app\\.externalNativeBuild\\cmake\\debug\\x86\" --target clean"
+  ],
+  "libraries": {
+    "cpp_code-Debug-x86": {
+      "buildCommand": "C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk\\.temp\\PackageOperation01\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"C:\\Users\\Lenovo\\AndroidStudioProjects\\MyApplicationpd\\app\\.externalNativeBuild\\cmake\\debug\\x86\" --target cpp_code",
+      "buildType": "debug",
+      "toolchain": "2526405295",
+      "abi": "x86",
+      "artifactName": "cpp_code",
+      "files": [
+        {
+          "src": "C:\\Users\\Lenovo\\AndroidStudioProjects\\MyApplicationpd\\app\\src\\main\\cpp\\cpp_code.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\Lenovo\\AndroidStudioProjects\\MyApplicationpd\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libcpp_code.so"
+    }
+  },
+  "toolchains": {
+    "2526405295": {
+      "cppCompilerExecutable": "C:\\Users\\Lenovo\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

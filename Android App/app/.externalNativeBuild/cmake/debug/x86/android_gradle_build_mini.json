@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Lenovo\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Lenovo\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\Lenovo\\AndroidStudioProjects\\MyApplicationpd\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk\\.temp\\PackageOperation01\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"C:\\Users\\Lenovo\\AndroidStudioProjects\\MyApplicationpd\\app\\.externalNativeBuild\\cmake\\debug\\x86\" --target clean"
+  ],
+  "libraries": {
+    "cpp_code-Debug-x86": {
+      "artifactName": "cpp_code",
+      "buildCommand": "C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk\\.temp\\PackageOperation01\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"C:\\Users\\Lenovo\\AndroidStudioProjects\\MyApplicationpd\\app\\.externalNativeBuild\\cmake\\debug\\x86\" --target cpp_code",
+      "abi": "x86",
+      "output": "C:\\Users\\Lenovo\\AndroidStudioProjects\\MyApplicationpd\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libcpp_code.so"
+    }
+  }
+}
