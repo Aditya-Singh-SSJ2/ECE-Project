@@ -81,7 +81,7 @@ while(cap.isOpened()):
     line_image=display_lines(frame,averaged_lines)
     combo_image=cv2.addWeighted(frame,0.9,line_image,1,1)
     cv2.imshow('result',combo_image)
-    if cv2.waitKey(1) & 0xFF==ord('x'):
+    if cv2.waitKey(1) & 0xFF==ord(27):  # ESC KEY to close
         break
 cv2.release()
 cv2.destroyAllWindows()
